@@ -13,9 +13,9 @@
         "middleware",
         "dependency"
     ],
- "config": {
+    "config": {
         "vendor-dir": "service/"
-    }
+    },
     "license": "MIT",
     "homepage": "https://github.com/atlantic8-web/slim-magic-service",
     "authors": [
